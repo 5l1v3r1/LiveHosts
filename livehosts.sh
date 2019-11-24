@@ -1,5 +1,6 @@
 #!/bin/bash
-#Made By benelhaj_younes
+# @r2dr0dn
+# U Don't Become a coder by copying and pasting
 clear
 
 RED=$(tput setaf 1 && tput bold)
@@ -48,7 +49,7 @@ echo "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"
 echo $GREEN"==========================================# "
 echo $GREEN"Finding The Live hosts up on Network :)   # "
 echo $GREEN"usage: Enter the range for your class     # "
-echo $BLUE "<---Made By benelhaj_younes--->          # "
+echo $BLUE "<---Made By r2dr0dn--->          # "
 echo $BLUE"<---LiveHosts--->                         # "
 echo $GREEN"v1.0                                      # "
 echo "#===================================================================================#"
